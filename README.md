@@ -119,10 +119,18 @@ Jogos simples, que geralmente não apresentam maior desafio, estão entre os mai
 
 ![HYML 3](https://user-images.githubusercontent.com/83186864/130100064-467faec6-8e3b-40ce-9934-90ec23442dc5.png)
 
-*logo após começam as funções atribuídas ao JavaScript*
+*Logo após começam as funções atribuídas ao JavaScript*
+
+![HTML 5](https://user-images.githubusercontent.com/83186864/130117642-f5b3d219-db24-47e1-acc8-52f80f8e57f1.png)
+
+*Conteúdo da barra de rolagem interativa*
 
 
+## **5. COMENTÁRIOS**
 
+*O site tem uma proposta bastante interessante e entrega o serviço prometido, mesmo que nos dias atuais não é mais tão acessado, visto que os jogos para celulares tem crescido em popularidade nos últimos anos*
+
+*Vale lembrar que muitos jogos presentes no site “morreram”, visto que o suporte ao Flash Player foi encerrado no ano de 2020. Entretanto, os jogos atualmente estão sendo escritos no próprio HTML5, que proporciona funções ainda melhores aos desenvolvedores*
 
 
 
