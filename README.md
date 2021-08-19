@@ -132,12 +132,11 @@ Jogos simples, que geralmente não apresentam maior desafio, estão entre os mai
 
 *Vale lembrar que muitos jogos presentes no site “morreram”, visto que o suporte ao Flash Player foi encerrado no ano de 2020. Entretanto, os jogos atualmente estão sendo escritos no próprio HTML5, que proporciona funções ainda melhores aos desenvolvedores*
 
+![Sem título](https://user-images.githubusercontent.com/83186864/130146818-98319b41-848b-417c-9c41-ba608469a1ad.png)
 
+*Essas foram as informações obtidas pelo site WHOIS sobre o serviço.*
 
-
-
-
-ARTUR SANTANA MENDANHA - RA 22008198
+**ARTUR SANTANA MENDANHA - RA 22008198**
  
  
  
